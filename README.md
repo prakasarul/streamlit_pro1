@@ -1,6 +1,9 @@
 # streamlit_pro1
-Install Streamlit
+
+**Install Streamlit**
+
 #pip install streamlit
 
-Run Streamlit
+**Run Streamlit**
+
 #streamlit run car24.py
